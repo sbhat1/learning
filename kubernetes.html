@@ -45,6 +45,8 @@
     }
     </style>
   <script>
+    document.getElementById("defaultOpen").click();
+    
     function showsection() {
       document.getElementById("pid").style.display = "block";
     }
@@ -68,11 +70,11 @@
 <body>
   <h1> Kubernetes view </h1>
   <div class="tab">
-    <button class="tablinks" onclick="openCity(event, 'Standard')">Standard</button>
+    <button class="tablinks" onclick="openCity(event, 'Standard')" id="defaultOpen">Standard</button>
     <button class="tablinks" onclick="openCity(event, 'Future')">Future</button>
   </div>
   
-  <div id="Standard" class="tabcontent" display = "block">
+  <div id="Standard" class="tabcontent">
     <h3>Standard view</h3>
     <img id="imgstd" src="images/kube-std.jpg" style="image-rendering:auto;"/ >
   </div>
