@@ -1,5 +1,7 @@
 # learning
+<!DOCTYPE html>
 <html>
+<body>
 <svg height="130" width="500">
     <defs>
       <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -19,4 +21,5 @@ src="images/kubernetes.jpg"  x="100" y="70" alt="Kubernetes"/> -->
 href="images/kubernetes.jpg"  x="100" y="70" alt="Kubernetes"/>    
   Sorry, your browser does not support inline SVG.
   </svg>
+  </body>
   </html>
