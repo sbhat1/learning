@@ -1,5 +1,5 @@
 # learning
-
+<html>
 <svg height="130" width="500">
 
     <defs>
@@ -21,3 +21,4 @@ href="images/kubernetes.jpg"  x="100" y="70" alt="Kubernetes"/>
     
   Sorry, your browser does not support inline SVG.
   </svg>
+  </html>
