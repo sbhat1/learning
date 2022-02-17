@@ -1,7 +1,6 @@
 # learning
 <html>
 <svg height="130" width="500">
-
     <defs>
       <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%"
@@ -17,8 +16,7 @@ src="images/kubernetes.jpg"  x="100" y="70" alt="Kubernetes"/> -->
     <text fill="#ffffff" font-size="45" font-family="Verdana"
     x="50" y="86">SVG</text>
     <image id="scream" width="50" height="45"
-href="images/kubernetes.jpg"  x="100" y="70" alt="Kubernetes"/>
-    
+href="images/kubernetes.jpg"  x="100" y="70" alt="Kubernetes"/>    
   Sorry, your browser does not support inline SVG.
   </svg>
   </html>
