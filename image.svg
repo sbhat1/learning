@@ -1,5 +1,5 @@
 <svg version="1.1"
      xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
      width="200" height="200">
-  <image x="90" y="40" width="128" height="146" crossorigin="" xlink:href="https://github.com/sbhat1/learning/blob/main/images/kubernetes.jpg"/>
+  <image x="90" y="40" width="128" height="146" crossorigin="" xlink:href="https://raw.githubusercontent.com/sbhat1/learning/main/images/kubernetes.jpg"/>
 </svg>
