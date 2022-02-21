@@ -4,7 +4,7 @@
   <desc>This graphic links to an external image
   </desc>
   <image x="200" y="200" width="100px" height="100px"
-         href="images/kube-future.jpg">
+         href="https://github.com/sbhat1/learning/blob/main/images/kube-future.jpg">
     <title>My image</title>
   </image>
 </svg>
