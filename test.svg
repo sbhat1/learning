@@ -14,6 +14,6 @@ src="images/kubernetes.jpg"  x="100" y="70" alt="Kubernetes"/> -->
     <text fill="#ffffff" font-size="45" font-family="Verdana"
     x="50" y="86">SVG</text>
     <image id="scream" width="50" height="45"
-xlink:href="https://github.com/sbhat1/learning/blob/main/images/kubernetes.jpg"  x="100" y="70" alt="Kubernetes"/>    
+href="images/Kubernetes-Logo.wine.svg"  x="100" y="70" alt="Kubernetes"/>    
   Sorry, your browser does not support inline SVG.
   </svg>
