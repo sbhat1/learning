@@ -14,7 +14,7 @@
                    requiredExtensions="http://example.com/SVGExtensions/EmbeddedXHTML">
       <!-- XHTML content goes here -->
      <body xmlns="http://www.w3.org/1999/xhtml">
-  <image xlink:href="images/kubernetes.jpg"
+  <image xlink:href="https://github.com/sbhat1/learning/blob/main/images/kubernetes.jpg"
          x="25%" y="25%" width="50%" height="50%" />
       </body>
     </foreignObject>
